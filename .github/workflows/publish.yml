@@ -3,7 +3,7 @@ name: Publish to NPM
 on:
     push:
         branches:
-            - deploy/main
+            - deploy/npm
 
 jobs:
     build-and-publish:
