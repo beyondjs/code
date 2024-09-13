@@ -33,4 +33,4 @@ console.log(scopedCode);
 
 ## License
 
-MIT © [[BeyondJS](https://beyondjs)]
+MIT © [[BeyondJS](https://beyondjs.com)]
